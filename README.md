@@ -16,8 +16,8 @@
 
 You can connect with me here,
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mohdishaq786/)
-#[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit9665.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white”/>](https://linkedin.com/in/mohd-ishaq-146483185)
+
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/917844923278)
 
 [![Ishaq’s github stats](https://github-readme-stats.vercel.app/api?username=mohdishaq786)](https://github.com/mohdishaq786/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdishaq786&layout=compact&hide=html" alt="mohdishaq786" />
