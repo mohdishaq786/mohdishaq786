@@ -25,6 +25,10 @@ You can connect with me here,
 [![Ishaq’s github stats](https://github-readme-stats.vercel.app/api?username=mohdishaq786)](https://github.com//github-readme-stats)
 
 
+<p align="center"> 
+<a href="https://codechef.com/users/ishaq786" target="blank"><img align="center" src=“codechef.svg" alt=“mohd-ismail-data" height="20" width="20" /></a> |
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Python and Django
