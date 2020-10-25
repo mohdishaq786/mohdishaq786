@@ -26,7 +26,7 @@ You can connect with me here,
 
 
 <p align="center"> 
-<a href="https://codechef.com/users/ishaq786" target="blank"><img align="center" src=“codechef.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> |
+<a href="https://codechef.com/users/ishaq786" ><img align="center" src=“codechef.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> |
 </p>
 
 Here are some ideas to get you started:
