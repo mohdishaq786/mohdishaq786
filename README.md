@@ -25,13 +25,6 @@ You can connect with me here,
 [![Ishaq’s github stats](https://github-readme-stats.vercel.app/api?username=mohdishaq786)](https://github.com//github-readme-stats)
 
 
-
-<p align="center"> 
-<a href="https://linkedin.com/in/mohd-ishaq-146483185” target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=“mohd-shaq-data” height="20" width="20" /></a> |
-<a href="https://codechef.com/users/ishaq786“ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://codechef.com/users/ishaq786" height="20" width="20" /></a> | 
-</p>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Python and Django
