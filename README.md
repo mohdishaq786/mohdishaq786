@@ -28,7 +28,9 @@ You can connect with me here,
 <p align="center"> 
 <a href="https://codechef.com/users/ishaq786" ><img align="center" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> |
 </p>
-<a href="https://www.hackerrank.com/ishaq786" ><img align="center" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> |
+<a href="https://www.hackerrank.com/ishaq786" ><img align="center" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> | 
+</p>
+<a href="http://codeforces.com/profile/Ishaq7860" ><img align="center" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt=“mohd-Ishaq-data" height="20" width="20" /></a> | 
 </p>
 
 Here are some ideas to get you started:
