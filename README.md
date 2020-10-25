@@ -26,7 +26,7 @@ You can connect with me here,
 
 
 <p align="center"> 
-<a href="https://codechef.com/users/ishaq786" target="blank"><img align="center" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fcodechef&psig=AOvVaw0XyUq2I91eUBiW2xWOrwjK&ust=1603729500026000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCJwIyU0OwCFQAAAAAdAAAAABAD" alt=“mohd-ismail-data" height="20" width="20" /></a> |
+<a href="https://codechef.com/users/ishaq786" target="blank"><img align="center" src=“https://github.com/mohdishaq786/mohdishaq786/blob/main/codechef.png?raw=true" alt=“mohd-Ishaq-data" height="20" width="20" /></a> |
 </p>
 
 Here are some ideas to get you started:
