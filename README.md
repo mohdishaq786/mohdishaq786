@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Ishaq  👾
-<h3 align="center">A passionate Web Developer and Competitive Programming from India</h3>
+<h3 align="center">A passionate Web Developer and Competitive Programmer from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=mohdishaq786" alt="mohdishaq786" />
   
@@ -9,7 +9,7 @@
 [![Years Badge](https://badges.pufler.dev/years/mohdishaq786)](https://badges.pufler.dev)
 
 
-- 🔭 My area of interest is in Web Development and Competitive Programmer. 
+- 🔭 My area of interest is in Web Development and Competitive Programming. 
 - 🌱 I’m currently learning Advance Data Structure and Algorithm.
 - 💬 Ask me about  Data Structure and Algorithm Problems.
 - 📫 How to reach me: ishaqmohd50@gmail.com.
@@ -27,7 +27,7 @@ You can connect with me here,
 
 
 <p align="center"> 
-<a href="https://linkedin.com/in/mohd-ishaq-146483185” target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/mohd-ishaq-146483185" height="20" width="20" /></a> |
+<a href="https://linkedin.com/in/mohd-ishaq-146483185” target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=“mohd-shaq-data” height="20" width="20" /></a> |
 <a href="https://codechef.com/users/ishaq786“ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://codechef.com/users/ishaq786" height="20" width="20" /></a> | 
 </p>
 
