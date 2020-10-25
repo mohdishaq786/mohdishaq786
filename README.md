@@ -9,14 +9,14 @@
 [![Years Badge](https://badges.pufler.dev/years/mohdishaq786)](https://badges.pufler.dev)
 
 
-- 🔭 My area of interest is in Web Development and Competitive Programming. 
+- 🔭 My area of interest is in Web Development and Competitive Programmer. 
 - 🌱 I’m currently learning Advance Data Structure and Algorithm.
 - 💬 Ask me about  Data Structure and Algorithm Problems.
 - 📫 How to reach me: ishaqmohd50@gmail.com.
 
 You can connect with me here,
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white”/>](https://linkedin.com/in/mohd-ishaq-146483185)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mohd-ishaq-146483185/)
 
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/917844923278)
 
