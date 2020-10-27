@@ -22,7 +22,7 @@ You can connect with me here,
 
 [![Ishaq’s github stats](https://github-readme-stats.vercel.app/api?username=mohdishaq786)](https://github.com/mohdishaq786/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdishaq786&layout=compact&hide=html" alt="mohdishaq786" />
 
-[![Ishaq’s github stats](https://github-readme-stats.vercel.app/api?username=mohdishaq786)](https://github.com//github-readme-stats)
+
 
 
 <p align="center"> 
