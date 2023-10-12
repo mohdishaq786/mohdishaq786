@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Ishaq  👾
-<h3 align="center">A passionate Web Developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Problem Solverfrom India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=mohdishaq786" alt="mohdishaq786" />
   
