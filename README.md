@@ -9,7 +9,7 @@
 [![Years Badge](https://badges.pufler.dev/years/mohdishaq786)](https://badges.pufler.dev)
 
 
-- 🔭 My area of interest is in Web Development and Competitive Programming. 
+- 🔭 My area of interest is in Web Development, Microservices, Design pattern, and Competitive Programming. 
 - 🌱 I’m currently learning Advance Data Structure and Algorithm.
 - 💬 Ask me about  Data Structure and Algorithm Problems.
 - 📫 How to reach me: ishaqmohd50@gmail.com.
@@ -35,7 +35,7 @@ You can connect with me here,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - Python and Django
+- 🔭 I’m currently working on -Microservices,K8s,Docker,Aws
 - 🌱 I’m currently learning - Advance Data Structure
 - 💬 Ask me about  Data Structure and Algorithm Problems.
 - 📫 How to reach me: - Gmail -  ishaqmohd50@gmail.com
