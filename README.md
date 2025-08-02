@@ -12,7 +12,7 @@
 - 🔭 My area of interest is in Web Development, Microservices, Design pattern, and Competitive Programming. 
 - 🌱 I’m currently learning Advance Data Structure and Algorithm.
 - 💬 Ask me about  Data Structure and Algorithm Problems.
-- 📫 How to reach me: ishaqmohd50@gmail.com.
+
 
 You can connect with me here,
 
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on -Microservices,K8s,Docker
 - 🌱 I’m currently learning - Aws,Serverless,
 - 💬 Ask me about  Data Structure and Algorithm Problems.
-- 📫 How to reach me: - Gmail -  ishaqmohd50@gmail.com
+
 
